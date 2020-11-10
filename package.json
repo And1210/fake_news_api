@@ -1,0 +1,11 @@
+{
+  "name": "fake_news_api",
+  "version": "1.0.0",
+  "description": "An api that will be able to recieve text and respond with a confidence that the text is fake news. In the future we hope to add insights to the model to allow it to show how it got that answer.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Farley",
+  "license": "ISC"
+}
